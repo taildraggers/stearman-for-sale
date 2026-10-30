@@ -224,7 +224,7 @@ EXCLUDE_KEYWORDS = [
     "strut", "struts", "gear leg", "gear legs", "landing gear",
     "engine mount", "engine mounts", "prop", "props", "propeller",
     "propellers", "cowl", "cowling", "cowlings", "fairing", "fairings",
-    "tail cone", "elevator",
+    "tail cone", "elevator", "tailfeathers", "tail feathers", "cap", "caps",
     "rudder", "aileron", "ailerons", "flap", "flaps", "tank", "tanks",
     "cooler", "coolers", "oil cooler", "oil coolers",
     "spinner", "spinners", "hinge", "hinges", "cushion", "cushions",
